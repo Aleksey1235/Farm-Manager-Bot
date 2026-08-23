@@ -1,4 +1,4 @@
-# FARM Manager Bot v2.5
+# FARM Manager Bot v2.6
 
 Новая версия бота отдела FARM с кнопочным управлением.
 
